@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="TypographyDashes">Homework 14-1</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+    <string name="music_name">Music name</string>
+    <string name="artist">Artist</string>
+</resources>
